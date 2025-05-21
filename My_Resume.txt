@@ -1,0 +1,105 @@
+Pravi Jain
+Full-Stack Developer
+
+About Me
+
+Contact
+
+As a Full-Stack Developer with hands-on experience, I specialize in developing cutting-edge websites and applications
+using the latest technologies. Proven ability to troubleshoot
+software issues efficiently and craft innovative solutions, ensuring seamless user experiences and robust functionality.
+
+Email
+pravi.jain12@gmail.com
+
+Projects
+E-Comm
+Website
+
+Developed a fully functional e-commerce website with features like product listings, search functionality, and shopping cart integration.
+• Used React.js for the front-end and Node.js for the backend.
+• Integrated a MongoDB database for user and product
+management.
+
+Weather
+App
+
+Built a weather application to display real-time weather
+data based on user input.
+• Utilized OpenWeather API for fetching weather data.
+• Implemented responsive design for compatibility across
+devices.
+
+To-Do
+List
+
+Created a dynamic to-do list application to manage daily
+tasks effectively.
+• Used React.js for interactive UI and state management.
+• Implemented local storage to save tasks between sessions.
+
+E-Comm
+Webpage
+(Myntra
+Clone)
+
+Designed a visually appealing clone of the Myntra website.
+• Focused on front-end development using HTML, CSS, and
+JavaScript.
+• Ensured responsiveness and cross-browser compatibility.
+
+Education
+Present
+↑
+Aug 2023
+2023
+
+Bachelor of Computer Applications (BCA)
+Poornima University, Jaipur
+
+Higher Secondary Certificate (HSC)
+New Adarsh Public Senior Secondary School, Sabla
+Achieved 75% grade.
+
+2021
+
+Secondary School Certificate (SSC)
+New Adarsh Public Senior Secondary School, Sabla
+Achieved 92% grade.
+
+Ó
+
+Phone
++91 722 980 7735
+
+
+
+Address
+Jaipur, Rajasthan, 303905, India
+
+
+
+LinkedIn
+linkedin.com/in/pravijain2004
+
+
+
+GitHub
+github.com/pravijain2004
+Languages
+English (Fluent), Hindi (Fluent)
+Hobbies
+Reading
+
+Skills
+• React.js
+• Material-UI
+• HTML
+• JavaScript
+• Node.js
+• Nest.js
+• MongoDB
+• Git
+• GitHub
+
+
